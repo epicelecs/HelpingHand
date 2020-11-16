@@ -2,7 +2,8 @@
 ![logo](https://github.com/lasnab/helping-hand/blob/master/logo.png?raw=true)
 HelpingHand, so called because of its ability to have similar dexterity to a human hand, this is a Bluetooth controlled robotic arm, an upgrade on my previous project, the Hand Mimic. The robot is controlled by an Android Smartphone via an application. The actual arm used is taken from the Hand Mimic, and has been mounted on a self-designed, custom fabricated, sheet metal chassis, affixed with motors for motion. 
 
-![video] (https://vimeo.com/314112126)
+[![Video](https://github.com/lasnab/helping-hand/blob/master/images/thumbnail.png?raw=true)](https://vimeo.com/314112126)
+
 > A video showing the arm being used to remotely pick-up an object
 
 ![image](https://github.com/lasnab/helping-hand/blob/master/images/view.png?raw=true)
@@ -37,5 +38,4 @@ Due to the unusual shape of the motor shaft, I had to improvise for mounting the
 ![image](https://github.com/lasnab/helping-hand/blob/master/images/clp2.jpg?raw=true)
 > The 'wrist' was mated to the claw using a proprietary motor coupler
 
-
-![video] (https://vimeo.com/314112096)
+[![Video](https://github.com/lasnab/helping-hand/blob/master/images/thumbnail.png?raw=true)](https://vimeo.com/314112126)
